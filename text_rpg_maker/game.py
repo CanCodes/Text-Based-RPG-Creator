@@ -25,4 +25,3 @@ class Game:
             self.ask_choices(question, choices)
         else:
             return (answer, choices[answer])
-    
