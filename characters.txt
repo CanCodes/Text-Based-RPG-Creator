@@ -1,0 +1,4 @@
+[Speedrun Boiii]
+Race:(0, 'Elf')
+Character name:Fast Elf
+---
